@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,Node JS, MongoDB**
 
-<!-- - 📫 How to reach me ajitkumarkhatua286@gmail.com -->
+- 📫 How to reach me ajitkumarkhatua286@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Di_4iXCJgV1nVdDm7SCS25XeA_Q0hM3j/view?usp=sharing](https://drive.google.com/file/d/1Di_4iXCJgV1nVdDm7SCS25XeA_Q0hM3j/view?usp=sharing)
 
