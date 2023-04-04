@@ -58,8 +58,8 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=ajit-kumar-khatua&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit-kumar-khatua&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ajit-kumar-khatua&show_icons=true&locale=en&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajit-kumar-khatua&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
 </div>
  <br />
 
